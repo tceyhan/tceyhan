@@ -2,10 +2,8 @@
 - 🌱 I’m currently learning Javascript, CSS-SASS/SCSS, ReactJS, NodeJS
 - 👯 I’m looking to collaborate on reactjs projects
 - 🤔 I’m looking for help with Reactjs
-- 💬 Ask me about ...
-- 📫 How to reach me: 
 - - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :earth_africa: I will share a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@55tc155)
   - :office: [LinkedIn](https://www.linkedin.com/in/tarikceyhan/)
