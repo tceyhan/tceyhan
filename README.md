@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on various projects..
-- 🌱 Python, Javascript, TypeScript CSS-SASS/SCSS,Bootstrap, ReactJS
+- 🌱 Python, Javascript,Jquery,TypeScript CSS-SASS/SCSS,Bootstrap,MUI ReactJS, Django, NodeJS
 - 👯 I’m looking to collaborate on React.js projects
 - 🤔 I’m looking for help with React.js
 - - 🌱 I’m addicted to learning and growing every day
