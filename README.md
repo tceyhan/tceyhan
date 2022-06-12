@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on various projects..
 - 🌱 Python, Javascript,Jquery,TypeScript CSS-SASS/SCSS,Bootstrap,MUI ReactJS, Django, NodeJS
-- 👯 I’m looking to collaborate on React.js projects
+- 👯 I’m looking to collaborate on React.js anda Django projects
 - 🤔 I’m looking for help with React.js
 - - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I will share a little bit of my knowledge to the world through my blogs
