@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on various projects..
-- 🌱 Python, Javascript,Jquery, CSS-SASS/SCSS,Bootstrap,MUI ReactJS, Django, NodeJS
+- 🌱 Python, Javascript,Jquery, CSS-SASS/SCSS,Bootstrap,MUI ReactJS, React Native, Angular, Django, NodeJs
 - 👯 I’m looking to collaborate on React.js and Django projects
-- 🤔 I’m looking for help with React.js
+- 🤔 I’m looking for help with React.js, Angular, React Native
 - - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I will share a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
